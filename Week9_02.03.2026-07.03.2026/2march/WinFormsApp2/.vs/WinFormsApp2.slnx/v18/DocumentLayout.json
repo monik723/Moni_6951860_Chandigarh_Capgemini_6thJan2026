@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\\2march\\WinFormsApp2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5D86B5-4D99-46DD-8DD9-503905095883}|WinFormsApp2.csproj|d:\\capegemini_cu_sec3_dotnetwithazure_monidahiya\\2march\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{EF5D86B5-4D99-46DD-8DD9-503905095883}|WinFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF5D86B5-4D99-46DD-8DD9-503905095883}|WinFormsApp2.csproj|d:\\capegemini_cu_sec3_dotnetwithazure_monidahiya\\2march\\winformsapp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF5D86B5-4D99-46DD-8DD9-503905095883}|WinFormsApp2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\\2march\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\\2march\\WinFormsApp2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAgwFwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T08:05:16.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\\2march\\WinFormsApp2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\\2march\\WinFormsApp2\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-02T07:51:04.433Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

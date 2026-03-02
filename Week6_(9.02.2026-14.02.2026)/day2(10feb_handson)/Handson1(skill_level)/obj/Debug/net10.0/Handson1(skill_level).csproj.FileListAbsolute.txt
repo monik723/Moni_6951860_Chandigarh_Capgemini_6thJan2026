@@ -1,0 +1,14 @@
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\bin\Debug\net10.0\Handson1(skill_level).exe
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\bin\Debug\net10.0\Handson1(skill_level).deps.json
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\bin\Debug\net10.0\Handson1(skill_level).runtimeconfig.json
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\bin\Debug\net10.0\Handson1(skill_level).dll
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\bin\Debug\net10.0\Handson1(skill_level).pdb
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\obj\Debug\net10.0\Handson1(skill_level).GeneratedMSBuildEditorConfig.editorconfig
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\obj\Debug\net10.0\Handson1(skill_level).AssemblyInfoInputs.cache
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\obj\Debug\net10.0\Handson1(skill_level).AssemblyInfo.cs
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\obj\Debug\net10.0\Handson1(skill_level).csproj.CoreCompileInputs.cache
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\obj\Debug\net10.0\Handson1(skill_level).dll
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\obj\Debug\net10.0\refint\Handson1(skill_level).dll
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\obj\Debug\net10.0\Handson1(skill_level).pdb
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\obj\Debug\net10.0\Handson1(skill_level).genruntimeconfig.cache
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week6_(9.02.2026-14.02.2026)\day2(10feb_handson)\Handson1(skill_level)\obj\Debug\net10.0\ref\Handson1(skill_level).dll

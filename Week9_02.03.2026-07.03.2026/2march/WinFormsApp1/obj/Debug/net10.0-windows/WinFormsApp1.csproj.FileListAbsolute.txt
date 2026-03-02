@@ -1,0 +1,6 @@
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\2march\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.Form1.resources
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\2march\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\2march\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\2march\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\2march\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\2march\WinFormsApp1\obj\Debug\net10.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache

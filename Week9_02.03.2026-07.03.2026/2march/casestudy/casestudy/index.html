@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Hospital Management System</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background: #fff;
+            width: 420px;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 15px 30px rgba(0,0,0,0.3);
+        }
+
+        h2 {
+            text-align: center;
+            margin-bottom: 20px;
+            color: #2c5364;
+        }
+
+        label {
+            font-weight: bold;
+            display: block;
+            margin-top: 12px;
+        }
+
+        input, select {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            border-radius: 8px;
+            border: 1px solid #ccc;
+            transition: 0.3s;
+        }
+
+        input:focus, select:focus {
+            border-color: #2c5364;
+            outline: none;
+            box-shadow: 0 0 6px rgba(44, 83, 100, 0.5);
+        }
+
+        .btn {
+            width: 100%;
+            padding: 10px;
+            margin-top: 18px;
+            border: none;
+            border-radius: 8px;
+            background: #2c5364;
+            color: white;
+            cursor: pointer;
+            font-size: 15px;
+            transition: 0.3s;
+        }
+
+        .btn:hover {
+            background: #203a43;
+        }
+
+        .section-title {
+            margin-top: 18px;
+            color: #203a43;
+            font-size: 16px;
+            border-bottom: 2px solid #2c5364;
+            padding-bottom: 5px;
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 15px;
+            font-size: 13px;
+            color: gray;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h2>Hospital Management System</h2>
+
+    <!-- Patient Details -->
+    <div class="section-title">Patient Details</div>
+
+    <label>Patient ID</label>
+    <input type="number" placeholder="Enter Patient ID">
+
+    <label>Patient Name</label>
+    <input type="text" placeholder="Enter Name">
+
+    <label>Age</label>
+    <input type="number" placeholder="Enter Age">
+
+    <label>Select Department</label>
+    <select>
+        <option>Cardiology</option>
+        <option>Neurology</option>
+        <option>Orthopedics</option>
+        <option>Emergency</option>
+    </select>
+
+    <!-- Hospital Selection -->
+    <div class="section-title">Hospital Selection</div>
+
+    <label>Select Hospital</label>
+    <select>
+        <option>AIMS</option>
+        <option>MAX</option>
+    </select>
+
+    <!-- Billing Section -->
+    <div class="section-title">Billing</div>
+
+    <label>Bill Amount</label>
+    <input type="number" placeholder="Enter Bill Amount">
+
+    <label>Payment Mode</label>
+    <select>
+        <option>Cash</option>
+        <option>Card</option>
+        <option>UPI</option>
+        <option>Insurance</option>
+    </select>
+
+    <button class="btn">Submit</button>
+
+    <div class="footer">
+        Thank you for using Hospital Management System
+    </div>
+</div>
+
+</body>
+</html>

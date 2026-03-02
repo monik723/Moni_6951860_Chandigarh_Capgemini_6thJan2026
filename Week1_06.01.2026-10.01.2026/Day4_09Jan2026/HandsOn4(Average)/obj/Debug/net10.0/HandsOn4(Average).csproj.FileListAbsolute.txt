@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\bin\Debug\net10.0\HandsOn4(Average).exe
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\bin\Debug\net10.0\HandsOn4(Average).deps.json
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\bin\Debug\net10.0\HandsOn4(Average).runtimeconfig.json
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\bin\Debug\net10.0\HandsOn4(Average).dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\bin\Debug\net10.0\HandsOn4(Average).pdb
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\obj\Debug\net10.0\HandsOn4(Average).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\obj\Debug\net10.0\HandsOn4(Average).AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\obj\Debug\net10.0\HandsOn4(Average).AssemblyInfo.cs
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\obj\Debug\net10.0\HandsOn4(Average).csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\obj\Debug\net10.0\HandsOn4(Average).dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\obj\Debug\net10.0\refint\HandsOn4(Average).dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\obj\Debug\net10.0\HandsOn4(Average).pdb
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\obj\Debug\net10.0\HandsOn4(Average).genruntimeconfig.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn4(Average)\obj\Debug\net10.0\ref\HandsOn4(Average).dll

@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Styled Table</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    padding: 40px;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+caption {
+    font-size: 22px;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #333;
+    color: white;
+}
+
+/* Alternate row color */
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
+
+/* Hover effect */
+tr:hover {
+    background-color: #d1f0ff;
+}
+</style>
+</head>
+
+<body>
+
+<table>
+    <caption>Student Grades</caption>
+    <tr>
+        <th>Roll No</th>
+        <th>Name</th>
+        <th>Subject</th>
+        <th>Marks</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Moni</td>
+        <td>Web Dev</td>
+        <td>95</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Riya</td>
+        <td>DBMS</td>
+        <td>88</td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Aman</td>
+        <td>Python</td>
+        <td>92</td>
+    </tr>
+</table>
+
+</body>
+</html>

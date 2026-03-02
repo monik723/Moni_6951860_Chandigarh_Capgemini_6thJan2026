@@ -1,0 +1,83 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Handson1(divisible by5)", "Handson1(divisible by5)", "{15F6F705-593F-A552-4831-BBFA22355B6B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "handson2(sumofsquare)", "handson2(sumofsquare)", "{FC8E70D6-3A47-8EED-B6E0-B59C3331CB15}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "handson3(av.ofmultipleof5)", "handson3(av.ofmultipleof5)", "{1A8DE64B-5C5E-7EB7-03E3-5D0F0E4B39E9}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "handson4(searchandremove)", "handson4(searchandremove)", "{FA151C97-C8A8-0995-60D0-6F1EEA51C39F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "handson5(binary to decimal)", "handson5(binary to decimal)", "{61123FF8-D626-5A68-68C2-154BA401FA3D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "hospital(add all feature)", "hospital(add all feature)", "{71166309-505D-44BE-32EE-C80289D5ACD8}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "interface", "interface", "{A83FB771-9961-F8C1-4A11-26F20453E45E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1_12Jan2026", "Handson1(divisible by5)\Day1_12Jan2026.csproj", "{C2F04BDA-2C2A-7960-6242-76846CA35E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1_12Jan2026", "handson2(sumofsquare)\Day1_12Jan2026.csproj", "{75A43DD9-D8C1-80C7-B7EB-A8BDEE5E140E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1_12Jan2026", "handson3(av.ofmultipleof5)\Day1_12Jan2026.csproj", "{53230124-CDDA-D982-0830-FCBA6A8BEE2D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1_12Jan2026", "handson4(searchandremove)\Day1_12Jan2026.csproj", "{94611F1F-5004-5348-A5AE-A9BE709F745F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1_12Jan2026", "handson5(binary to decimal)\Day1_12Jan2026.csproj", "{FCEE9C03-E1C8-ADE7-1D67-620DED483BE2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1_12Jan2026", "hospital(add all feature)\Day1_12Jan2026.csproj", "{74856DDF-AADB-CA4B-AEBF-C5A5E7EDDD18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Day1_12Jan2026", "interface\Day1_12Jan2026.csproj", "{B07D49F7-3C54-7538-D676-A8B8D6099293}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2F04BDA-2C2A-7960-6242-76846CA35E90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2F04BDA-2C2A-7960-6242-76846CA35E90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2F04BDA-2C2A-7960-6242-76846CA35E90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2F04BDA-2C2A-7960-6242-76846CA35E90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75A43DD9-D8C1-80C7-B7EB-A8BDEE5E140E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75A43DD9-D8C1-80C7-B7EB-A8BDEE5E140E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75A43DD9-D8C1-80C7-B7EB-A8BDEE5E140E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75A43DD9-D8C1-80C7-B7EB-A8BDEE5E140E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53230124-CDDA-D982-0830-FCBA6A8BEE2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53230124-CDDA-D982-0830-FCBA6A8BEE2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53230124-CDDA-D982-0830-FCBA6A8BEE2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53230124-CDDA-D982-0830-FCBA6A8BEE2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94611F1F-5004-5348-A5AE-A9BE709F745F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94611F1F-5004-5348-A5AE-A9BE709F745F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94611F1F-5004-5348-A5AE-A9BE709F745F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94611F1F-5004-5348-A5AE-A9BE709F745F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCEE9C03-E1C8-ADE7-1D67-620DED483BE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEE9C03-E1C8-ADE7-1D67-620DED483BE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEE9C03-E1C8-ADE7-1D67-620DED483BE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEE9C03-E1C8-ADE7-1D67-620DED483BE2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74856DDF-AADB-CA4B-AEBF-C5A5E7EDDD18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74856DDF-AADB-CA4B-AEBF-C5A5E7EDDD18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74856DDF-AADB-CA4B-AEBF-C5A5E7EDDD18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74856DDF-AADB-CA4B-AEBF-C5A5E7EDDD18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B07D49F7-3C54-7538-D676-A8B8D6099293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B07D49F7-3C54-7538-D676-A8B8D6099293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B07D49F7-3C54-7538-D676-A8B8D6099293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B07D49F7-3C54-7538-D676-A8B8D6099293}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C2F04BDA-2C2A-7960-6242-76846CA35E90} = {15F6F705-593F-A552-4831-BBFA22355B6B}
+		{75A43DD9-D8C1-80C7-B7EB-A8BDEE5E140E} = {FC8E70D6-3A47-8EED-B6E0-B59C3331CB15}
+		{53230124-CDDA-D982-0830-FCBA6A8BEE2D} = {1A8DE64B-5C5E-7EB7-03E3-5D0F0E4B39E9}
+		{94611F1F-5004-5348-A5AE-A9BE709F745F} = {FA151C97-C8A8-0995-60D0-6F1EEA51C39F}
+		{FCEE9C03-E1C8-ADE7-1D67-620DED483BE2} = {61123FF8-D626-5A68-68C2-154BA401FA3D}
+		{74856DDF-AADB-CA4B-AEBF-C5A5E7EDDD18} = {71166309-505D-44BE-32EE-C80289D5ACD8}
+		{B07D49F7-3C54-7538-D676-A8B8D6099293} = {A83FB771-9961-F8C1-4A11-26F20453E45E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {991E26A5-A5CE-449A-8C6F-3D2A3AF3D81D}
+	EndGlobalSection
+EndGlobal

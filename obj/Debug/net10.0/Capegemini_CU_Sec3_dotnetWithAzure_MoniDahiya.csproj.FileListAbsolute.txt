@@ -1,0 +1,4 @@
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\obj\Debug\net10.0\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\obj\Debug\net10.0\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\obj\Debug\net10.0\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya.AssemblyInfo.cs
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\obj\Debug\net10.0\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya.csproj.CoreCompileInputs.cache

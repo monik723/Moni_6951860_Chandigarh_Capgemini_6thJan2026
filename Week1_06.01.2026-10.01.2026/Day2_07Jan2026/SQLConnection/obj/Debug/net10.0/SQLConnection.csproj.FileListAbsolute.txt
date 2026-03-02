@@ -1,0 +1,4 @@
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day2_07Jan2026\SQLConnection\obj\Debug\net10.0\SQLConnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day2_07Jan2026\SQLConnection\obj\Debug\net10.0\SQLConnection.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day2_07Jan2026\SQLConnection\obj\Debug\net10.0\SQLConnection.AssemblyInfo.cs
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day2_07Jan2026\SQLConnection\obj\Debug\net10.0\SQLConnection.csproj.CoreCompileInputs.cache

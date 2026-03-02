@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\bin\Debug\net10.0\HandsOn2(Armstrong).exe
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\bin\Debug\net10.0\HandsOn2(Armstrong).deps.json
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\bin\Debug\net10.0\HandsOn2(Armstrong).runtimeconfig.json
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\bin\Debug\net10.0\HandsOn2(Armstrong).dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\bin\Debug\net10.0\HandsOn2(Armstrong).pdb
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\obj\Debug\net10.0\HandsOn2(Armstrong).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\obj\Debug\net10.0\HandsOn2(Armstrong).AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\obj\Debug\net10.0\HandsOn2(Armstrong).AssemblyInfo.cs
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\obj\Debug\net10.0\HandsOn2(Armstrong).csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\obj\Debug\net10.0\HandsOn2(Armstrong).dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\obj\Debug\net10.0\refint\HandsOn2(Armstrong).dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\obj\Debug\net10.0\HandsOn2(Armstrong).pdb
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\obj\Debug\net10.0\HandsOn2(Armstrong).genruntimeconfig.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn2(Armstrong)\obj\Debug\net10.0\ref\HandsOn2(Armstrong).dll

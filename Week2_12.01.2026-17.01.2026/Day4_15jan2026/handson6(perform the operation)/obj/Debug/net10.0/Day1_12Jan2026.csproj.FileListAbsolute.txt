@@ -1,0 +1,18 @@
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day3_14jan2026\interface\obj\Debug\net10.0\Day1_12Jan2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day3_14jan2026\interface\obj\Debug\net10.0\Day1_12Jan2026.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day3_14jan2026\interface\obj\Debug\net10.0\Day1_12Jan2026.AssemblyInfo.cs
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day3_14jan2026\interface\obj\Debug\net10.0\Day1_12Jan2026.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\bin\Debug\net10.0\Day1_12Jan2026.exe
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\bin\Debug\net10.0\Day1_12Jan2026.deps.json
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\bin\Debug\net10.0\Day1_12Jan2026.runtimeconfig.json
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\bin\Debug\net10.0\Day1_12Jan2026.dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\bin\Debug\net10.0\Day1_12Jan2026.pdb
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\obj\Debug\net10.0\Day1_12Jan2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\obj\Debug\net10.0\Day1_12Jan2026.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\obj\Debug\net10.0\Day1_12Jan2026.AssemblyInfo.cs
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\obj\Debug\net10.0\Day1_12Jan2026.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\obj\Debug\net10.0\Day1_12Jan2026.dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\obj\Debug\net10.0\refint\Day1_12Jan2026.dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\obj\Debug\net10.0\Day1_12Jan2026.pdb
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\obj\Debug\net10.0\Day1_12Jan2026.genruntimeconfig.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week2_12.01.2026-17.01.2026\Day4_15jan2026\handson6(perform the operation)\obj\Debug\net10.0\ref\Day1_12Jan2026.dll

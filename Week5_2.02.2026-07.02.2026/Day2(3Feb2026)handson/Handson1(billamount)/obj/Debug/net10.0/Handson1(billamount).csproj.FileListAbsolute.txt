@@ -1,0 +1,14 @@
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\obj\Debug\net10.0\Handson1(billamount).GeneratedMSBuildEditorConfig.editorconfig
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\obj\Debug\net10.0\Handson1(billamount).AssemblyInfoInputs.cache
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\obj\Debug\net10.0\Handson1(billamount).AssemblyInfo.cs
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\obj\Debug\net10.0\Handson1(billamount).csproj.CoreCompileInputs.cache
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\bin\Debug\net10.0\Handson1(billamount).exe
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\bin\Debug\net10.0\Handson1(billamount).deps.json
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\bin\Debug\net10.0\Handson1(billamount).runtimeconfig.json
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\bin\Debug\net10.0\Handson1(billamount).dll
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\bin\Debug\net10.0\Handson1(billamount).pdb
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\obj\Debug\net10.0\Handson1(billamount).dll
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\obj\Debug\net10.0\refint\Handson1(billamount).dll
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\obj\Debug\net10.0\Handson1(billamount).pdb
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\obj\Debug\net10.0\Handson1(billamount).genruntimeconfig.cache
+d:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week5_2.02.2026-07.02.2026\Day2(3Feb2026)handson\Handson1(billamount)\obj\Debug\net10.0\ref\Handson1(billamount).dll

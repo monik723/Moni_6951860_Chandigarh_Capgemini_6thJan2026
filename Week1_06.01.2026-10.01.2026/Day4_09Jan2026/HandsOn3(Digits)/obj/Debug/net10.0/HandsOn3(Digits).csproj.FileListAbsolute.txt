@@ -1,0 +1,14 @@
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\bin\Debug\net10.0\HandsOn3(Digits).exe
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\bin\Debug\net10.0\HandsOn3(Digits).deps.json
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\bin\Debug\net10.0\HandsOn3(Digits).runtimeconfig.json
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\bin\Debug\net10.0\HandsOn3(Digits).dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\bin\Debug\net10.0\HandsOn3(Digits).pdb
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\obj\Debug\net10.0\HandsOn3(Digits).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\obj\Debug\net10.0\HandsOn3(Digits).AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\obj\Debug\net10.0\HandsOn3(Digits).AssemblyInfo.cs
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\obj\Debug\net10.0\HandsOn3(Digits).csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\obj\Debug\net10.0\HandsOn3(Digits).dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\obj\Debug\net10.0\refint\HandsOn3(Digits).dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\obj\Debug\net10.0\HandsOn3(Digits).pdb
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\obj\Debug\net10.0\HandsOn3(Digits).genruntimeconfig.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day4_09Jan2026\HandsOn3(Digits)\obj\Debug\net10.0\ref\HandsOn3(Digits).dll

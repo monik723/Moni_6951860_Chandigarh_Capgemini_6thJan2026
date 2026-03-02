@@ -1,0 +1,28 @@
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\bin\Debug\net10.0\Day5_10Jan2026.exe
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\bin\Debug\net10.0\Day5_10Jan2026.deps.json
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\bin\Debug\net10.0\Day5_10Jan2026.runtimeconfig.json
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\bin\Debug\net10.0\Day5_10Jan2026.dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\bin\Debug\net10.0\Day5_10Jan2026.pdb
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\obj\Debug\net10.0\Day5_10Jan2026.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\obj\Debug\net10.0\Day5_10Jan2026.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\obj\Debug\net10.0\Day5_10Jan2026.AssemblyInfo.cs
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\obj\Debug\net10.0\Day5_10Jan2026.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\obj\Debug\net10.0\Day5_10Jan2026.dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\obj\Debug\net10.0\refint\Day5_10Jan2026.dll
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\obj\Debug\net10.0\Day5_10Jan2026.pdb
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\obj\Debug\net10.0\Day5_10Jan2026.genruntimeconfig.cache
+C:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week1_06.01.2026-10.01.2026\Day5_10Jan2026\handson 1\obj\Debug\net10.0\ref\Day5_10Jan2026.dll
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\bin\Debug\net10.0\Day5_10Jan2026.exe
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\bin\Debug\net10.0\Day5_10Jan2026.deps.json
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\bin\Debug\net10.0\Day5_10Jan2026.runtimeconfig.json
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\bin\Debug\net10.0\Day5_10Jan2026.dll
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\bin\Debug\net10.0\Day5_10Jan2026.pdb
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\obj\Debug\net10.0\Day5_10Jan2026.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\obj\Debug\net10.0\Day5_10Jan2026.AssemblyInfoInputs.cache
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\obj\Debug\net10.0\Day5_10Jan2026.AssemblyInfo.cs
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\obj\Debug\net10.0\Day5_10Jan2026.csproj.CoreCompileInputs.cache
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\obj\Debug\net10.0\Day5_10Jan2026.dll
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\obj\Debug\net10.0\refint\Day5_10Jan2026.dll
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\obj\Debug\net10.0\Day5_10Jan2026.pdb
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\obj\Debug\net10.0\Day5_10Jan2026.genruntimeconfig.cache
+c:\Users\USER\Downloads\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week3_19.01.2026-25.01.2026\day2(20jan2026)\Mahiral_and_alphabetandvowel\obj\Debug\net10.0\ref\Day5_10Jan2026.dll

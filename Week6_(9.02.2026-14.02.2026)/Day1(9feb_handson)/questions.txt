@@ -1,0 +1,144 @@
+9th Feb Hands on For participants.
+1. Write a Program that inserts a single character into a string at a specified position.
+Example: Insert 'A' at position 3 in "Hello World".
+
+2. Delete Alternating Characters	
+Given a string s, delete alternating characters from the string to form a new string. For example, delete the second, fourth, sixth, etc., characters.
+Example:
+Input: s = "abcdef"
+Output: "ace"
+
+3. Remove Duplicate Consecutive Characters
+
+Given a string s, remove consecutive duplicate characters until no consecutive duplicates remain. For example, from "abbaccd", remove "bb" and "cc" in separate operations.
+Example:
+Input: s = "abbaccd"
+Output: "d"
+
+Initial String: "abbaccd"
+First Pass:
+Find and remove "bb".
+The string becomes "aaccd".
+
+Second Pass:
+Find and remove "aa".
+The string becomes "ccd".
+
+Third Pass:
+Find and remove "cc".
+The string becomes "d".
+Final String: "d"
+
+4. Maximum Deletions of Any Consecutive Character Pair
+Given a string s, delete any two consecutive characters from the string . Return the maximum number of such deletions possible.
+Example:
+Input: s = "aabbcc"
+Output: 3
+
+5. Write a program that prompts the user for a positive integer and then computes the sum of all the digits of the number. For example, if the user enters 2784, then the program reports 21. If the user enters 59, then the program reports 14. The program should work for any number having one to ten digits.
+
+6. Write a program that the user for a positive integer and then reports the closest integer having a whole number square root. For example, if the user enters 8, then the program reports 9. If the user enters 18, then the program reports 16.The program should work for any number having one to seven digits.
+
+7. Write a program to remove duplicate elements from an array.
+
+8. You are given an integer, N(array size) and an integer array, arr.
+
+A "couple" is any two adjacent elements in arr which are non-circular. This means that elements of a couple must NOT wrap around the end of the array.
+
+Find the total number of couples in arr whose sum is perfectly divisible by N.
+Input: N=4 arr=[2,2,4,0]
+Explanation: Couples: (2,2), (2,4), (4,0) Sums: 4, 6, 4 Only (2,2) and (4,0) are divisible by 4
+Expected Output: 2
+Input: N=5 arr=[1,2,3,4,5]
+Explanation: Couples: (1,2), (2,3), (3,4), (4,5) Sums: 3, 5, 7, 9 → None divisible by 5
+Expected Output: 0
+
+9. Reverse an array
+
+10. Write a program to reverse the elements of an array without using a second array.
+
+11. Find the second largest element
+
+12. Write a program to find the second largest number in an array.
+
+13. Count the frequency of each element in the array.
+
+14. Merge two sorted arrays into one sorted array.
+
+15. Find all pairs of elements in an array whose sum is equal to a given number.
+
+16. Check if All Words Are Anagrams
+Input comma seperated words and, check if all the words are anagrams of each other. Return true if they are, otherwise false.
+Example:
+Input: ["dusty", "study", "dust", "stydy"]
+Output: false
+88888888888888 from above all 5 question given to participants888888888888888
+17. Given a list of words, find all words that are unique (neither anagrams nor identical to any other word in the list).
+Example:
+Input: ["listen", "silent", "hello", "world", "abc", "cba"]
+Output: ["hello", "world"]
+
+18. Write a C program to remove from last occurrence of a word in given string
+Example:
+Input string: I am a programmer. I learn at Codeforwin.
+Input word to remove: I
+
+Output
+String after removing last occurrence of 'I':
+I am a programmer.  learn at Codeforwin
+
+19. Write a C program to replace first occurrence of a character with another character in a string.
+Example
+
+Input
+
+Input string: I love programming.
+Input character to replace: .
+Input character to replace with: !
+
+Output
+
+String after replacing '.' with '!': I love programming!
+
+20. Write a program to input pipe seperated words and display them in the reverse order.
+
+21. You are given a string, str.  You need to find the score of str as per the following rules:
+
+  1) For each palindrome of length 4 in str, add 5 to the score
+
+  2) For each palindrome of length 5 in str, add 10 to the score
+
+output the final score
+
+Example:  input string is ABCBAAAA  score will be 15 because ABCBA - 10 points (palindrome of length 5) AAAA - 5 points (Palindrome of length 4)
+
+22. Write a function that inserts a substring into a string at a specified position.
+Example: Insert "ABC" at position 3 in "C programming".
+
+23. Write a Program that inserts multiple substrings into a string at specified positions.
+Example: Insert "Hello" at position 0, "World" at position 5, and "!" at the end of the string "ABCDEF".
+
+24. Write a Program that removes a substring from a specified position in a string and inserts a new substring at the same position.
+Example: Remove "World" from "HelloWorld" and insert "Universe" at the same position.
+
+24. Input 3 strings x,y and z. Check if z is a perfect shuffle of x and y.
+
+25. The program should input N lines of a string. In each line find the position of "the" and "of" and print. If it is not found first "-1".
+
+
+26. Input an array with N elements for each element X in an array find the next element which is greater than X and divisible by X. Display the count of how many such element exists.
+
+27. Write "|" separated words . Sort the words and print them in pipe separated.
+
+28. Input a string having both Alpha numeric characters. Print partitioned parts in left and right where left contains the value pushed and right contained all string.
+
+29. You are given a string S. Calculate the length of the longest palindromic substring of the string S. A substring is a contiguous part of a given string.
+
+Note that there can be many longest palindromic substrings. You have to return the length of any one of them.
+
+30. Given a string s, delete pairs of consecutive vowels (like "ae", "io", etc.). Return the number of deletions made.
+Example:
+Input: s = "beautiful"
+Output: 1 (deletes "ea")
+
+

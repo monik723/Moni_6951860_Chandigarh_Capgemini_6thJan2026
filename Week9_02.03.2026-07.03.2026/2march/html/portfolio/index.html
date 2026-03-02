@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>My Portfolio</title>
+
+<style>
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Header */
+header {
+    background: #333;
+    color: white;
+    padding: 15px;
+}
+
+/* Navigation */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+nav ul li a:hover {
+    color: #00c3ff;
+}
+
+/* Sections */
+section {
+    padding: 40px;
+    text-align: center;
+}
+
+.profile img {
+    width: 150px;
+    border-radius: 50%;
+}
+
+/* Project Cards */
+.projects {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+}
+
+.card {
+    background: #f4f4f4;
+    padding: 20px;
+    width: 200px;
+    border-radius: 10px;
+    transition: transform 0.3s ease;
+}
+
+.card:hover {
+    transform: scale(1.05);
+    background: #e0f7ff;
+}
+
+/* Footer */
+footer {
+    background: #333;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+    nav {
+        flex-direction: column;
+    }
+
+    .projects {
+        flex-direction: column;
+        align-items: center;
+    }
+}
+</style>
+</head>
+
+<body>
+
+<header>
+    <nav>
+        <h2>Moni</h2>
+        <ul>
+            <li><a href="#">Home</a></li>
+            <li><a href="#">Projects</a></li>
+            <li><a href="#">Contact</a></li>
+        </ul>
+    </nav>
+</header>
+
+<section class="profile">
+    <img src="https://via.placeholder.com/150" alt="Profile Picture">
+    <h2>About Me</h2>
+    <p>I am an MCA student passionate about web development and coding.</p>
+</section>
+
+<section>
+    <h2>My Projects</h2>
+    <div class="projects">
+        <div class="card">Project 1</div>
+        <div class="card">Project 2</div>
+        <div class="card">Project 3</div>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Moni | All Rights Reserved</p>
+</footer>
+
+</body>
+</html>

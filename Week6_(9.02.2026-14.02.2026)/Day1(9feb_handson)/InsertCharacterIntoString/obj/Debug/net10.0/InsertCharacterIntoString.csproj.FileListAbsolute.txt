@@ -1,0 +1,14 @@
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/bin/Debug/net10.0/InsertCharacterIntoString
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/bin/Debug/net10.0/InsertCharacterIntoString.deps.json
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/bin/Debug/net10.0/InsertCharacterIntoString.runtimeconfig.json
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/bin/Debug/net10.0/InsertCharacterIntoString.dll
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/bin/Debug/net10.0/InsertCharacterIntoString.pdb
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/obj/Debug/net10.0/InsertCharacterIntoString.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/obj/Debug/net10.0/InsertCharacterIntoString.AssemblyInfoInputs.cache
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/obj/Debug/net10.0/InsertCharacterIntoString.AssemblyInfo.cs
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/obj/Debug/net10.0/InsertCharacterIntoString.csproj.CoreCompileInputs.cache
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/obj/Debug/net10.0/InsertCharacterIntoString.dll
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/obj/Debug/net10.0/refint/InsertCharacterIntoString.dll
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/obj/Debug/net10.0/InsertCharacterIntoString.pdb
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/obj/Debug/net10.0/InsertCharacterIntoString.genruntimeconfig.cache
+/Users/sakshamchauhan/Desktop/Capegemini_CU_Sec3_dotnetWithAzure_SakshamChauhan/Week6_09.02.2026-14.02.2026/InsertCharacterIntoString/obj/Debug/net10.0/ref/InsertCharacterIntoString.dll
