@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 7 (16th feb-21st feb)\\day 35 16th feb 26\\librarymanagementsystem\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|solutionrelative:library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5091A7CE-A1F9-ADB4-3274-47AE96597D97}|..\\LibraryTestProject\\LibraryTestProject.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 7 (16th feb-21st feb)\\day 35 16th feb 26\\librarytestproject\\librarytests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5091A7CE-A1F9-ADB4-3274-47AE96597D97}|..\\LibraryTestProject\\LibraryTestProject.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 7 (16th feb-21st feb)\\day 35 16th feb 26\\librarytestproject\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 7 (16th feb-21st feb)\\day 35 16th feb 26\\librarymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4E7692D-7697-29B1-0BCC-078270F13D10}|LibraryManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LibraryTests.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\LibraryTestProject\\LibraryTests.cs",
+              "RelativeDocumentMoniker": "..\\LibraryTestProject\\LibraryTests.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\LibraryTestProject\\LibraryTests.cs",
+              "RelativeToolTip": "..\\LibraryTestProject\\LibraryTests.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wC8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:47:44.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\LibraryTestProject\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\LibraryTestProject\\UnitTest1.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\LibraryTestProject\\UnitTest1.cs",
+              "RelativeToolTip": "..\\LibraryTestProject\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:45:09.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Library.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\LibraryManagementSystem\\Library.cs",
+              "RelativeDocumentMoniker": "Library.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\LibraryManagementSystem\\Library.cs",
+              "RelativeToolTip": "Library.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:43:03.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\LibraryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\LibraryManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T06:42:02.654Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\CalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F5D00E-2A24-4B7F-B6A9-495E158B1EA6}|..\\TestProject1\\TestProject1.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 7 (16th feb-21st feb)\\day 35 16th feb 26\\testproject1\\calculatortest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E04504-3441-463F-8B14-CC7C5DD0E135}|CalculatorApp.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 7 (16th feb-21st feb)\\day 35 16th feb 26\\calculatorapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E04504-3441-463F-8B14-CC7C5DD0E135}|CalculatorApp.csproj|solutionrelative:calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9F5D00E-2A24-4B7F-B6A9-495E158B1EA6}|..\\TestProject1\\TestProject1.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 7 (16th feb-21st feb)\\day 35 16th feb 26\\testproject1\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00E04504-3441-463F-8B14-CC7C5DD0E135}|CalculatorApp.csproj|c:\\capgemini_cu_sec3_.netazure_anshikayadav\\week 7 (16th feb-21st feb)\\day 35 16th feb 26\\calculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00E04504-3441-463F-8B14-CC7C5DD0E135}|CalculatorApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CalculatorTest.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\TestProject1\\CalculatorTest.cs",
+              "RelativeDocumentMoniker": "..\\TestProject1\\CalculatorTest.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\TestProject1\\CalculatorTest.cs",
+              "RelativeToolTip": "..\\TestProject1\\CalculatorTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:26:35.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\TestProject1\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\TestProject1\\UnitTest1.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\TestProject1\\UnitTest1.cs",
+              "RelativeToolTip": "..\\TestProject1\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:15:45.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\CalculatorApp\\Calculator.cs",
+              "RelativeDocumentMoniker": "Calculator.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\CalculatorApp\\Calculator.cs",
+              "RelativeToolTip": "Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:03:16.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\CalculatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 7 (16th Feb-21st Feb)\\Day 35 16th Feb 26\\CalculatorApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T05:02:23.261Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

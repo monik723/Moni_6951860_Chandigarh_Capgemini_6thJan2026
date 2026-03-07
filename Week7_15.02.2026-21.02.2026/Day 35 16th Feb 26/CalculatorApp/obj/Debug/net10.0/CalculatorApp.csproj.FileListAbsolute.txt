@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\bin\Debug\net10.0\CalculatorApp.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\bin\Debug\net10.0\CalculatorApp.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\bin\Debug\net10.0\CalculatorApp.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\bin\Debug\net10.0\CalculatorApp.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\bin\Debug\net10.0\CalculatorApp.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\obj\Debug\net10.0\refint\CalculatorApp.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\obj\Debug\net10.0\CalculatorApp.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\CalculatorApp\obj\Debug\net10.0\ref\CalculatorApp.dll

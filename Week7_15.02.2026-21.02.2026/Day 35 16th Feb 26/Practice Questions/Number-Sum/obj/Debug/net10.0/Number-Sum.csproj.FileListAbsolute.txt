@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\bin\Debug\net10.0\Number-Sum.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\bin\Debug\net10.0\Number-Sum.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\bin\Debug\net10.0\Number-Sum.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\bin\Debug\net10.0\Number-Sum.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\bin\Debug\net10.0\Number-Sum.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\obj\Debug\net10.0\Number-Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\obj\Debug\net10.0\Number-Sum.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\obj\Debug\net10.0\Number-Sum.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\obj\Debug\net10.0\Number-Sum.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\obj\Debug\net10.0\Number-Sum.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\obj\Debug\net10.0\refint\Number-Sum.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\obj\Debug\net10.0\Number-Sum.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\obj\Debug\net10.0\Number-Sum.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\Practice Questions\Number-Sum\obj\Debug\net10.0\ref\Number-Sum.dll

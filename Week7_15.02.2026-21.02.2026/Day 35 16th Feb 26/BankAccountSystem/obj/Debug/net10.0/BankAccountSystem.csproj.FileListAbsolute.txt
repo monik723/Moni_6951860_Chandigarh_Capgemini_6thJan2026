@@ -1,0 +1,14 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\bin\Debug\net10.0\BankAccountSystem.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\bin\Debug\net10.0\BankAccountSystem.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\bin\Debug\net10.0\BankAccountSystem.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\bin\Debug\net10.0\BankAccountSystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\bin\Debug\net10.0\BankAccountSystem.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\obj\Debug\net10.0\BankAccountSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\obj\Debug\net10.0\BankAccountSystem.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\obj\Debug\net10.0\BankAccountSystem.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\obj\Debug\net10.0\BankAccountSystem.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\obj\Debug\net10.0\BankAccountSystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\obj\Debug\net10.0\refint\BankAccountSystem.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\obj\Debug\net10.0\BankAccountSystem.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\obj\Debug\net10.0\BankAccountSystem.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 7 (16th Feb-21st Feb)\Day 35 16th Feb 26\BankAccountSystem\obj\Debug\net10.0\ref\BankAccountSystem.dll

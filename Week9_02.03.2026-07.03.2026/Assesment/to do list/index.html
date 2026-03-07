@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>To-Do List App</title>
+
+<style>
+
+body{
+    font-family: Arial, sans-serif;
+    margin:0;
+    height:100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background: linear-gradient(135deg,#89f7fe,#66a6ff);
+}
+
+.container{
+    background:white;
+    padding:30px;
+    width:400px;
+    border-radius:15px;
+    box-shadow:0 8px 20px rgba(0,0,0,0.2);
+    text-align:center;
+}
+
+h2{
+    color:#333;
+}
+
+input{
+    width:70%;
+    padding:10px;
+    border-radius:8px;
+    border:1px solid #ccc;
+    outline:none;
+}
+
+button{
+    padding:10px 15px;
+    border:none;
+    border-radius:8px;
+    cursor:pointer;
+    margin:5px;
+}
+
+.addBtn{
+    background:#4CAF50;
+    color:white;
+}
+
+.clearBtn{
+    background:#f44336;
+    color:white;
+}
+
+button:hover{
+    opacity:0.8;
+}
+
+ul{
+    list-style:none;
+    padding:0;
+    margin-top:20px;
+}
+
+li{
+    background:#f5f5f5;
+    padding:10px;
+    margin:8px 0;
+    border-radius:8px;
+    cursor:pointer;
+    transition:0.3s;
+}
+
+li:hover{
+    background:#e0e0e0;
+}
+
+.done{
+    text-decoration: line-through;
+    color:gray;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h2>📝 My To-Do List</h2>
+
+<input type="text" id="taskInput" placeholder="Enter a new task...">
+
+<button class="addBtn" onclick="addTask()">Add</button>
+
+<button class="clearBtn" onclick="clearTasks()">Clear All</button>
+
+<ul id="taskList"></ul>
+
+</div>
+
+<script>
+
+function addTask(){
+
+    let input = document.getElementById("taskInput");
+    let taskText = input.value;
+
+    if(taskText === ""){
+        alert("Please enter a task!");
+        return;
+    }
+
+    let li = document.createElement("li");
+    li.innerText = taskText;
+
+    li.onclick = function(){
+        li.classList.toggle("done");
+    };
+
+    document.getElementById("taskList").appendChild(li);
+
+    input.value="";
+}
+
+function clearTasks(){
+    document.getElementById("taskList").innerHTML="";
+}
+
+</script>
+
+</body>
+</html>
