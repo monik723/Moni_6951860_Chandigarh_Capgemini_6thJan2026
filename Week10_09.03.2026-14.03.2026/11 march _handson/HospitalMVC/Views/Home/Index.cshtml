@@ -1,0 +1,41 @@
+﻿@{
+    ViewData["Title"] = "Hospital";
+}
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div> *@
+<div class="row mt-5">
+
+    <div class="col-md-4">
+        <div class="card shadow text-center">
+            <div class="card-body">
+                <h4>Patients</h4>
+                <p>Manage patient records</p>
+                <a asp-controller="Patients" asp-action="Index" class="btn btn-primary">Open</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card shadow text-center">
+            <div class="card-body">
+                <h4>Doctors</h4>
+                <p>Manage doctors and specialization</p>
+                <a asp-controller="Doctors" asp-action="Index" class="btn btn-success">Open</a>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card shadow text-center">
+            <div class="card-body">
+                <h4>Appointments</h4>
+                <p>Schedule appointments</p>
+                <a asp-controller="Appointments" asp-action="Index" class="btn btn-danger">Open</a>
+            </div>
+        </div>
+    </div>
+
+</div>

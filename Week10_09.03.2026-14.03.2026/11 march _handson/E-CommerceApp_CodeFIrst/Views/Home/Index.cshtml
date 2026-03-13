@@ -1,0 +1,113 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+@{
+    ViewData["Title"] = "Online Store Dashboard";
+}
+
+<style>
+
+    body{
+        background:linear-gradient(135deg,#f5f7fa,#c3cfe2);
+        font-family:Arial, Helvetica, sans-serif;
+    }
+
+    .container{
+        width:80%;
+        margin:100px auto;
+        text-align:center;
+    }
+
+    .title{
+        font-size:36px;
+        margin-bottom:40px;
+        color:#333;
+    }
+
+    /* dashboard grid */
+
+    .grid{
+        display:grid;
+        grid-template-columns:repeat(auto-fit,minmax(200px,1fr));
+        gap:25px;
+    }
+
+    /* card */
+
+    .card{
+        background:white;
+        padding:30px;
+        border-radius:12px;
+        box-shadow:0px 6px 15px rgba(0,0,0,0.2);
+        transition:0.3s;
+    }
+
+    .card:hover{
+        transform:scale(1.05);
+    }
+
+    /* buttons */
+
+    .btn{
+        display:inline-block;
+        margin-top:15px;
+        padding:12px 25px;
+        border-radius:6px;
+        text-decoration:none;
+        color:white;
+        font-weight:bold;
+    }
+
+    .customer{background:#28a745;}
+    .product{background:#007bff;}
+    .category{background:#ff9800;}
+    .order{background:#9c27b0;}
+
+</style>
+
+<div class="container">
+
+    <h1 class="title">Online Store Admin Dashboard</h1>
+
+    <div class="grid">
+
+        <div class="card">
+            <h3>Customers</h3>
+            <p>Manage store customers</p>
+
+            <a asp-controller="Customers" asp-action="Index" class="btn customer">
+                View Customers
+            </a>
+        </div>
+
+        <div class="card">
+            <h3>Products</h3>
+            <p>Manage store products</p>
+
+            <a asp-controller="Products" asp-action="Index" class="btn product">
+                View Products
+            </a>
+        </div>
+
+        <div class="card">
+            <h3>Categories</h3>
+            <p>Manage product categories</p>
+
+            <a asp-controller="Categories" asp-action="Index" class="btn category">
+                View Categories
+            </a>
+        </div>
+
+        <div class="card">
+            <h3>Orders</h3>
+            <p>View and manage orders</p>
+
+            <a asp-controller="Orders" asp-action="Index" class="btn order">
+                View Orders
+            </a>
+        </div>
+
+    </div>
+
+</div>

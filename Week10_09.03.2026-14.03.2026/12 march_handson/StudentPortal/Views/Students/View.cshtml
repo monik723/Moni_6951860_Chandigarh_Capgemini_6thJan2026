@@ -1,0 +1,37 @@
+﻿@model List<StudentPortal.Models.Student>
+
+<h2>Student List</h2>
+
+<table border="1">
+    <tr>
+        <th>Id</th>
+        <th>Name</th>
+        <th>Age</th>
+    </tr>
+
+    @foreach (var s in Model)
+    {
+        <tr>
+            <td>@s.Id</td>
+            <td>@s.Name</td>
+            <td>@s.Age</td>
+        </tr>
+    }
+</table>
+
+<h2>Request Logs</h2>
+
+<table border="1">
+    <tr>
+        <th>URL</th>
+        <th>Execution Time</th>
+    </tr>
+
+    @foreach (var log in ViewBag.Logs)
+    {
+        <tr>
+            <td>@log.Url</td>
+            <td>@log.ExecutionTime ms</td>
+        </tr>
+    }
+</table>

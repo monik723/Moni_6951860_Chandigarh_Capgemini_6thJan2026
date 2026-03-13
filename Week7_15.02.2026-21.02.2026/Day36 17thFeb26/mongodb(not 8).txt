@@ -1,0 +1,319 @@
+Please enter a MongoDB connection string (Default: mongodb://localhost/): mongodb://localhost/
+mongodb://localhost/
+Current Mongosh Log ID: 6994096c985befe8ab7c2906
+Connecting to:          mongodb://localhost/?directConnection=true&serverSelectionTimeoutMS=2000&appName=mongosh+2.7.0
+Using MongoDB:          8.2.5
+Using Mongosh:          2.7.0
+
+For mongosh info see: https://www.mongodb.com/docs/mongodb-shell/
+
+------
+   The server generated these startup warnings when booting
+   2026-02-17T10:36:02.267+05:30: Access control is not enabled for the database. Read and write access to data and configuration is unrestricted
+------
+
+test> show dbs
+admin    40.00 KiB
+config  100.00 KiB
+local    40.00 KiB
+test> use sargamdb
+switched to db sargamdb
+sargamdb> db.employee.insert({"empname","bradley"})
+Uncaught:
+SyntaxError: Unexpected token (1:29)
+
+> 1 | db.employee.insert({"empname","bradley"})
+    |                              ^
+  2 |
+
+sargamdb> db.employee.insert({"empname":"bradley"}) WriteResult({"nInserted":1})
+Uncaught:
+SyntaxError: Missing semicolon. (1:41)
+
+> 1 | db.employee.insert({"empname":"bradley"}) WriteResult({"nInserted":1})
+    |                                          ^
+  2 |
+
+sargamdb> db.employee.insert({"empname":"bradley"})
+DeprecationWarning: Collection.insert() is deprecated. Use insertOne, insertMany, or bulkWrite.
+{
+  acknowledged: true,
+  insertedIds: { '0': ObjectId('69940a99985befe8ab7c2907') }
+}
+sargamdb> show dbs
+admin      40.00 KiB
+config    104.00 KiB
+local      40.00 KiB
+sargamdb   40.00 KiB
+sargamdb> db.department.insert({"deptname":"finance"})WriteResult({"nInserted":1})
+Uncaught:
+SyntaxError: Missing semicolon. (1:44)
+
+> 1 | db.department.insert({"deptname":"finance"})WriteResult({"nInserted":1})
+    |                                             ^
+  2 |
+
+sargamdb> db.department.insert({"deptname":"finance"});WriteResult({"nInserted":1})
+ReferenceError: WriteResult is not defined
+sargamdb> db.department.insert({"deptname":"finance"})
+{
+  acknowledged: true,
+  insertedIds: { '0': ObjectId('69940c01985befe8ab7c2909') }
+}
+sargamdb> WriteResult({"nInserted":1})
+ReferenceError: WriteResult is not defined
+sargamdb> show collection
+MongoshInvalidInputError: [COMMON-10001] 'collection' is not a valid argument for "show".
+sargamdb> show collections
+department
+employee
+sargamdb> db.employee.find()
+[ { _id: ObjectId('69940a99985befe8ab7c2907'), empname: 'bradley' } ]
+sargamdb> db.department.find()
+[
+  { _id: ObjectId('69940bf6985befe8ab7c2908'), deptname: 'finance' },
+  { _id: ObjectId('69940c01985befe8ab7c2909'), deptname: 'finance' }
+]
+sargamdb> db.employee.drop()
+true
+sargamdb> show collections
+department
+sargamdb> db.department.drop()
+true
+sargamdb> show collections
+
+sargamdb> db.department.insert({"deptname":"operations"})
+{
+  acknowledged: true,
+  insertedIds: { '0': ObjectId('69940e59985befe8ab7c290a') }
+}
+sargamdb> db.employee.insert({"empname":"emma"})
+{
+  acknowledged: true,
+  insertedIds: { '0': ObjectId('69940ea5985befe8ab7c290b') }
+}
+sargamdb> show collections
+department
+employee
+sargamdb> db.department.find()
+[
+  { _id: ObjectId('69940e59985befe8ab7c290a'), deptname: 'operations' }
+]
+sargamdb> db.employee.find()
+[ { _id: ObjectId('69940ea5985befe8ab7c290b'), empname: 'emma' } ]
+sargamdb> db.DropDatabase()
+TypeError: db.DropDatabase is not a function
+sargamdb> db.dropDatabase()
+{ ok: 1, dropped: 'sargamdb' }
+sargamdb> show collection
+MongoshInvalidInputError: [COMMON-10001] 'collection' is not a valid argument for "show".
+sargamdb> show collections
+
+sargamdb> db.employee.find()
+
+sargamdb> show dbs
+admin    40.00 KiB
+config  108.00 KiB
+local    40.00 KiB
+sargamdb> use demo
+switched to db demo
+demo> show collections
+
+demo> db.employee.insert({
+| empname:"Emma",
+| empage:27,
+| empzone:"East",
+| empdept:"Marketing"
+| })
+{
+  acknowledged: true,
+  insertedIds: { '0': ObjectId('699410de985befe8ab7c290c') }
+}
+demo> db.employee.find()
+[
+  {
+    _id: ObjectId('699410de985befe8ab7c290c'),
+    empname: 'Emma',
+    empage: 27,
+    empzone: 'East',
+    empdept: 'Marketing'
+  }
+]
+demo> db.employee.insert({
+| empname:"Brad",
+| empage:25,
+| empzone:"North",
+| empdept:"Finance"
+| })
+{
+  acknowledged: true,
+  insertedIds: { '0': ObjectId('69941194985befe8ab7c290d') }
+}
+demo> db.employee.find()
+[
+  {
+    _id: ObjectId('699410de985befe8ab7c290c'),
+    empname: 'Emma',
+    empage: 27,
+    empzone: 'East',
+    empdept: 'Marketing'
+  },
+  {
+    _id: ObjectId('69941194985befe8ab7c290d'),
+    empname: 'Brad',
+    empage: 25,
+    empzone: 'North',
+    empdept: 'Finance'
+  }
+]
+demo> db.department.insertOne({
+| deptname:"Marketing",
+| deptmanager:"Jacob",
+| deptrank:3
+| })
+{
+  acknowledged: true,
+  insertedId: ObjectId('69941206985befe8ab7c290e')
+}
+demo> db.department.find()
+[
+  {
+    _id: ObjectId('69941206985befe8ab7c290e'),
+    deptname: 'Marketing',
+    deptmanager: 'Jacob',
+    deptrank: 3
+  }
+]
+demo> show collections
+department
+employee
+demo> db.client.insertMany(
+| [
+| {
+| clientname:"ABC Tech",
+| clientcountry:"Australia",
+| clientdept:"Marketing"
+| },
+| {
+| clientname:"KK Consultants",
+| clientcountry:"England",
+| clientdept:"HR"
+| },
+| {
+| clientname:"Insights Limited",
+| clientcountry:"India",
+| clientdept:"IT"
+| }
+| ]
+| )
+{
+  acknowledged: true,
+  insertedIds: {
+    '0': ObjectId('6994130e985befe8ab7c290f'),
+    '1': ObjectId('6994130e985befe8ab7c2910'),
+    '2': ObjectId('6994130e985befe8ab7c2911')
+  }
+}
+demo> db.client.find()
+[
+  {
+    _id: ObjectId('6994130e985befe8ab7c290f'),
+    clientname: 'ABC Tech',
+    clientcountry: 'Australia',
+    clientdept: 'Marketing'
+  },
+  {
+    _id: ObjectId('6994130e985befe8ab7c2910'),
+    clientname: 'KK Consultants',
+    clientcountry: 'England',
+    clientdept: 'HR'
+  },
+  {
+    _id: ObjectId('6994130e985befe8ab7c2911'),
+    clientname: 'Insights Limited',
+    clientcountry: 'India',
+    clientdept: 'IT'
+  }
+]
+demo> db.client.find().pretty()
+[
+  {
+    _id: ObjectId('6994130e985befe8ab7c290f'),
+    clientname: 'ABC Tech',
+    clientcountry: 'Australia',
+    clientdept: 'Marketing'
+  },
+  {
+    _id: ObjectId('6994130e985befe8ab7c2910'),
+    clientname: 'KK Consultants',
+    clientcountry: 'England',
+    clientdept: 'HR'
+  },
+  {
+    _id: ObjectId('6994130e985befe8ab7c2911'),
+    clientname: 'Insights Limited',
+    clientcountry: 'India',
+    clientdept: 'IT'
+  }
+]
+demo> show collections
+client
+department
+employee
+demo> db.employee.find()
+[
+  {
+    _id: ObjectId('699410de985befe8ab7c290c'),
+    empname: 'Emma',
+    empage: 27,
+    empzone: 'East',
+    empdept: 'Marketing'
+  },
+  {
+    _id: ObjectId('69941194985befe8ab7c290d'),
+    empname: 'Brad',
+    empage: 25,
+    empzone: 'North',
+    empdept: 'Finance'
+  }
+]
+demo> db.department.find()
+[
+  {
+    _id: ObjectId('69941206985befe8ab7c290e'),
+    deptname: 'Marketing',
+    deptmanager: 'Jacob',
+    deptrank: 3
+  }
+]
+demo> db.client.find()
+[
+  {
+    _id: ObjectId('6994130e985befe8ab7c290f'),
+    clientname: 'ABC Tech',
+    clientcountry: 'Australia',
+    clientdept: 'Marketing'
+  },
+  {
+    _id: ObjectId('6994130e985befe8ab7c2910'),
+    clientname: 'KK Consultants',
+    clientcountry: 'England',
+    clientdept: 'HR'
+  },
+  {
+    _id: ObjectId('6994130e985befe8ab7c2911'),
+    clientname: 'Insights Limited',
+    clientcountry: 'India',
+    clientdept: 'IT'
+  }
+]
+demo> db.department.find().pretty()
+[
+  {
+    _id: ObjectId('69941206985befe8ab7c290e'),
+    deptname: 'Marketing',
+    deptmanager: 'Jacob',
+    deptrank: 3
+  }
+]
+demo>

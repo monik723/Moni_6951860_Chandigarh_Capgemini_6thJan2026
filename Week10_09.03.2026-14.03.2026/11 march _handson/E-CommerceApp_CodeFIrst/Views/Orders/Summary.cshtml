@@ -1,0 +1,44 @@
+﻿@* namespace E_CommerceApp_CodeFIrst.Views.Orders
+{
+    public class Summary
+    {
+    }
+} *@
+@model E_CommerceApp_CodeFIrst.Models.Order
+
+<h2>Order Summary</h2>
+
+<p>
+    Customer: @Model.Customer.FullName
+</p>
+
+<p>
+    Email: @Model.Customer.Email
+</p>
+
+<p>
+    Order Date: @Model.OrderDate
+</p>
+
+<table border="1">
+
+    <tr>
+        <th>Product</th>
+        <th>Quantity</th>
+        <th>Price</th>
+    </tr>
+
+    @foreach (var item in Model.OrderDetails)
+    {
+        <tr>
+            <td>@item.Product.Name</td>
+            <td>@item.Quantity</td>
+            <td>@item.UnitPrice</td>
+        </tr>
+    }
+
+</table>
+
+<p>
+    Total Amount: @Model.TotalAmount
+</p>
