@@ -1,0 +1,24 @@
+﻿
+@{
+    ViewData["Title"] = "ProjectsByEmployee";
+}
+
+@* <h1>ProjectsByEmployee</h1> *@
+@model IEnumerable<EmployeeProjectManagement.Models.Project>
+
+<h2>Projects Assigned To Employee</h2>
+
+<table class="table">
+    <tr>
+        <th>Project Title</th>
+    </tr>
+
+    @foreach (var p in Model)
+    {
+        <tr>
+            <td>@p.Title</td>
+        </tr>
+    }
+
+</table>
+

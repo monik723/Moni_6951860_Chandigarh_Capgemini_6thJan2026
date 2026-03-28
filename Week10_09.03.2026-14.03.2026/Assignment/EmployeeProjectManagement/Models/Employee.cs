@@ -1,0 +1,19 @@
+﻿using EmployeeProjectManagement.Models;
+using System.ComponentModel.DataAnnotations;
+
+namespace EmployeeProjectManagement.Models
+{
+    public class Employee
+    {
+        public int EmployeeId { get; set; }
+
+        [Required]
+        public string Name { get; set; }
+
+        public int DepartmentId { get; set; }
+
+        public Department? Department { get; set; }
+
+        public List<EmployeeProject>? EmployeeProjects { get; set; }
+    }
+}

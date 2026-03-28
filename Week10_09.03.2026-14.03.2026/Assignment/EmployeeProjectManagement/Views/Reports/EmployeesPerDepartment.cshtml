@@ -1,0 +1,23 @@
+﻿
+@{
+    ViewData["Title"] = "EmployeesPerDepartment";
+}
+
+@* <h1>EmployeesPerDepartment</h1> *@
+<h2>Employees Per Department</h2>
+
+<table class="table">
+    <tr>
+        <th>Department</th>
+        <th>Total Employees</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Department</td>
+            <td>@item.Count</td>
+        </tr>
+    }
+
+</table>

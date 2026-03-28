@@ -1,0 +1,61 @@
+﻿@page
+@model EventRegistration.Pages.Events.IndexModel
+@{
+}
+
+
+
+
+<div class="card shadow border-0">
+    @if (TempData["Success"] != null)
+    {
+        <div class="alert alert-success alert-dismissible fade show" role="alert">
+            @TempData["Success"]
+            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+        </div>
+    }
+    <div class="card-header bg-dark text-white">
+        <h4 class="mb-0">Participants List</h4>
+    </div>
+
+    <div class="card-body">
+
+        <table class="table table-hover table-bordered align-middle">
+            <thead class="table-primary">
+                <tr>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Event</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var item in Model.Registrations)
+                {
+                    <tr>
+                        <td>@item.ParticipantName</td>
+                        <td>@item.Email</td>
+                        <td>@item.EventName</td>
+                        <td>
+                            @if (HttpContext.Session.GetString("role") == "Admin")
+                            {
+                                <form method="post" asp-page-handler="Delete">
+                                    <input type="hidden" name="id" value="@item.Id" />
+                                    <button class="btn btn-danger btn-sm">
+                                        Delete
+                                    </button>
+                                </form>
+                            }
+                            else
+                            {
+                                <span class="text-muted">Not Allowed</span>
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+
+    </div>
+</div>

@@ -1,0 +1,88 @@
+@page
+<h2 class="text-center">My Bookings</h2>
+
+<div class="container">
+    <div id="bookings"></div>
+</div>
+
+<script>
+loadBookings();
+
+function loadBookings(){
+    fetch("http://localhost:5003/api/bookings", {
+        headers: {
+            "Authorization": "Bearer " + localStorage.getItem("token")
+        }
+    })
+    .then(res => {
+        if(res.status === 401){
+            alert("Please login");
+            window.location.href = "/Login";
+            return;
+        }
+        return res.json();
+    })
+    .then(data => {
+        console.log("Bookings:", data);
+
+        if(!data || data.length === 0){
+            document.getElementById("bookings").innerHTML = "<h4>No bookings found</h4>";
+            return;
+        }
+
+        let html = `
+        <table class="table table-bordered">
+            <tr>
+                <th>ID</th>
+                <th>Event</th>
+                <th>Seats</th>
+                <th>Action</th>
+            </tr>
+        `;
+
+        data.forEach(b => {
+            html += `
+            <tr>
+                <td>${b.id}</td>
+                <td>${b.eventName || b.eventId}</td>
+                <td>${b.seatsBooked}</td>
+                <td>
+                    <button class="btn btn-danger" onclick="deleteBooking(${b.id})">
+                        Delete
+                    </button>
+                </td>
+            </tr>
+            `;
+        });
+
+        html += "</table>";
+        document.getElementById("bookings").innerHTML = html;
+    })
+    .catch(err => {
+        console.error(err);
+        document.getElementById("bookings").innerHTML = "Error loading bookings";
+    });
+}
+
+function deleteBooking(id){
+    fetch(`http://localhost:5003/api/bookings/${id}`, {
+        method: "DELETE",
+        headers: {
+            "Authorization": "Bearer " + localStorage.getItem("token")
+        }
+    })
+    .then(res => {
+        if(res.status === 401){
+            alert("Login first");
+            return;
+        }
+        return res.text();
+    })
+    .then(data => {
+        alert("Booking deleted");
+
+        // ✅ RELOAD BOOKINGS
+        loadBookings();
+    });
+}
+</script>

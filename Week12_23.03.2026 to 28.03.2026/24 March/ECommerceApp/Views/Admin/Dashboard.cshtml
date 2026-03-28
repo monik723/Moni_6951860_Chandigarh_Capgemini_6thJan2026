@@ -1,0 +1,45 @@
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<div class="container mt-4">
+
+    <h2 class="text-center text-success mb-4">📊 Admin Dashboard</h2>
+
+    <div class="row">
+
+        <!-- Top Products -->
+        <div class="col-md-6">
+            <div class="card shadow p-3">
+                <h4 class="text-primary">🔥 Top Selling Products</h4>
+
+                <ul class="list-group mt-3">
+                    @foreach (var item in ViewBag.TopProducts)
+                    {
+                       <li class="list-group-item">
+    <strong>@item.ProductName</strong> - Sold: @item.TotalSold
+</li>
+                    }
+                </ul>
+            </div>
+        </div>
+
+        <!-- Pending Orders -->
+        <div class="col-md-6">
+            <div class="card shadow p-3">
+                <h4 class="text-danger">🚚 Pending Shipments</h4>
+
+                <ul class="list-group mt-3">
+                    @foreach (var order in ViewBag.PendingOrders)
+                    {
+                        <li class="list-group-item">
+                            Order ID: @order.OrderId | Status: @order.Status
+                        </li>
+                    }
+                </ul>
+            </div>
+        </div>
+
+    </div>
+
+</div>

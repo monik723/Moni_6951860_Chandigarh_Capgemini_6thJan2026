@@ -1,0 +1,32 @@
+@page
+<h2 class="text-center">Login</h2>
+
+<div class="container col-md-4">
+    <input id="user" class="form-control m-2" placeholder="Username" />
+    <input id="pass" type="password" class="form-control m-2" placeholder="Password" />
+
+    <button class="btn btn-primary w-100" onclick="login()">Login</button>
+</div>
+
+<script>
+function login(){
+    fetch("http://localhost:5003/api/auth/login", {
+        method: "POST",
+        headers: {"Content-Type": "application/json"},
+        body: JSON.stringify({
+            username: document.getElementById("user").value,
+            password: document.getElementById("pass").value
+        })
+    })
+    .then(res => {
+        if(!res.ok) throw new Error("Login failed");
+        return res.json();
+    })
+    .then(data => {
+        localStorage.setItem("token", data.token);
+        alert("Login Successful");
+        window.location.href = "/Events";
+    })
+    .catch(err => alert(err));
+}
+</script>

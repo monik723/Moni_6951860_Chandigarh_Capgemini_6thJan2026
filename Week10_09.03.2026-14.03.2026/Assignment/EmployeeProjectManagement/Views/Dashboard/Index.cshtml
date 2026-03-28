@@ -1,0 +1,103 @@
+﻿@model IEnumerable<EmployeeProjectManagement.Models.Project>
+
+@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="container mt-4">
+
+    <h2 class="text-center text-success mb-4">Company Project Dashboard</h2>
+
+    <!-- Dashboard Cards -->
+    <div class="row mb-4">
+
+        <div class="col-md-4">
+            <div class="card text-white bg-primary shadow">
+                <div class="card-body text-center">
+                    <h5>Total Employees</h5>
+                    <h2>@ViewBag.TotalEmployees</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-white bg-success shadow">
+                <div class="card-body text-center">
+                    <h5>Total Projects</h5>
+                    <h2>@ViewBag.TotalProjects</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-4">
+            <div class="card text-dark bg-warning shadow">
+                <div class="card-body text-center">
+                    <h5>Total Departments</h5>
+                    <h2>@ViewBag.TotalDepartments</h2>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Quick Buttons -->
+    <div class="mb-4 text-center">
+
+        <a asp-controller="Employees" asp-action="Create" class="btn btn-success me-2">
+            Add Employee
+        </a>
+
+        <a asp-controller="Projects" asp-action="Create" class="btn btn-primary me-2">
+            Add Project
+        </a>
+
+        <a asp-controller="Departments" asp-action="Create" class="btn btn-warning">
+            Add Department
+        </a>
+
+    </div>
+
+    <!-- Dashboard Table -->
+
+    <div class="card shadow">
+
+        <div class="card-header bg-dark text-white">
+            <h4 class="mb-0">Project Assignments</h4>
+        </div>
+
+        <div class="card-body">
+
+            <table class="table table-striped table-hover">
+
+                <thead class="table-dark">
+                    <tr>
+                        <th>Project</th>
+                        <th>Employee</th>
+                        <th>Department</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    @foreach (var project in Model)
+                    {
+                        foreach (var ep in project.EmployeeProjects)
+                        {
+                            <tr>
+                                <td>@project.Title</td>
+                                <td>@ep.Employee.Name</td>
+                                <td>@ep.Employee.Department.Name</td>
+                            </tr>
+                        }
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+</div>
+

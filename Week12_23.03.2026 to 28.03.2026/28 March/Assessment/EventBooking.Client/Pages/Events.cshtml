@@ -1,0 +1,72 @@
+@page
+
+<h2 class="text-center">Events</h2>
+
+<div class="container">
+    <div id="events" class="row"></div>
+</div>
+
+
+<script>
+fetch("http://localhost:5003/api/events")
+.then(res => res.json())
+.then(data => {
+    let html = "";
+
+    data.forEach(e => {
+        html += `
+        <div class="col-md-4">
+            <div class="card m-3 p-3 shadow">
+                <h4>${e.title}</h4>
+                <p><b>Location:</b> ${e.location}</p>
+                <p><b>Date:</b> ${e.date}</p>
+                <p><b>Seats:</b> ${e.availableSeats}</p>
+
+                <input type="number" id="seats${e.id}" class="form-control mb-2" placeholder="Seats" />
+
+                <button class="btn btn-success w-100" onclick="book(${e.id})">
+                    Book
+                </button>
+            </div>
+        </div>`;
+    });
+
+    document.getElementById("events").innerHTML = html;
+});
+
+
+function book(id){
+    let seats = document.getElementById("seats"+id).value;
+
+    if(seats <= 0){
+        alert("Invalid seats");
+        return;
+    }
+
+    fetch("http://localhost:5003/api/bookings", {
+        method: "POST",
+        headers: {
+            "Content-Type": "application/json",
+            "Authorization": "Bearer " + localStorage.getItem("token")
+        },
+        body: JSON.stringify({
+            eventId: id,
+            seatsBooked: parseInt(seats)
+        })
+    })
+    .then(res => {
+        if(res.status === 401){
+            alert("Login first");
+            window.location.href = "/Login";
+            return;
+        }
+        return res.text();
+    })
+    .then(data => {
+        alert("Booking Successful");
+        
+        // ✅ REDIRECT TO BOOKINGS PAGE
+        window.location.href = "/MyBookings";
+    });
+}
+</script>
